@@ -8,5 +8,5 @@ yarn dev
 ```
 
 ## 앞으로 정리할 것
-- [] `getStaticProps`
-- [] HTTP의 SWR 스펙
+- [ ] `getStaticProps`
+- [ ] HTTP의 SWR 스펙
